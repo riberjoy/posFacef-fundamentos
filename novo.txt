@@ -1,0 +1,5 @@
+if(today.isRain()){
+ printf("We happy");
+} else{
+ printf("Fire again :( ");
+}
